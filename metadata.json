@@ -1,8 +1,0 @@
-{
-  "name": "SkyStyle: Weather & Fashion Assistant",
-  "description": "A smart weather forecasting app that suggests the perfect outfit using Gemini AI and generates visual inspirations with Gemini 3 Pro Image.",
-  "requestFramePermissions": [
-    "geolocation",
-    "microphone"
-  ]
-}
